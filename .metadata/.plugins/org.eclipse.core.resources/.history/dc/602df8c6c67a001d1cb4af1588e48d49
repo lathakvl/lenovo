@@ -1,0 +1,18 @@
+package com.VariblesAndDataTypes;
+
+public class VariablesExample {
+ public static void main(String[] args) {
+	//variable - Syntax
+	 //data type variable name=value;
+	 byte bytevariable=5;
+	 System.out.println("The value of the variable bytevariable is:"+ bytevariable);
+	short shortvariable=10;
+	System.out.println("The value of the variable shortvariable is:"+shortvariable);
+  
+ 
+ 
+ }
+ 
+ 
+ 
+}

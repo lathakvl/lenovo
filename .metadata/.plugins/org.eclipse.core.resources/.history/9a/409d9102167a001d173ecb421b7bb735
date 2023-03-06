@@ -1,0 +1,7 @@
+package com.BasicJava;
+
+public class PrintingMessage {
+ public static void main(String[] args) {
+	
+} 
+}

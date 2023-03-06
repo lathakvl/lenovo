@@ -1,0 +1,11 @@
+package com.BasicJava;
+public class PrintingMessage {
+ public static void main(String[] args) {
+ {
+	System.out.println("This is my frist java program");	
+    System.out.println("Learning wed application");
+    System.out.print("To test wb application"); 
+    System.out.println("To get the job and earn loads of money"); 
+ }
+} 
+}
